@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Blood","order":1,"path":"folders/Objects/Fx/Blood.yy",},
+    {"name":"Weapon","order":2,"path":"folders/Objects/Fx/Weapon.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sGlockProjectile","order":1,"path":"sprites/sGlockProjectile/sGlockProjectile.yy",},
+    {"name":"sPlayerMove","order":1,"path":"sprites/sPlayerMove/sPlayerMove.yy",},
+    {"name":"Game","order":1,"path":"objects/Game/Game.yy",},
+    {"name":"Inventory","order":1,"path":"objects/Inventory/Inventory.yy",},
+    {"name":"sFont","order":1,"path":"sprites/sFont/sFont.yy",},
+    {"name":"par_bodypart","order":3,"path":"objects/par_bodypart/par_bodypart.yy",},
+    {"name":"weapon_catalog","order":1,"path":"scripts/weapon_catalog/weapon_catalog.yy",},
+    {"name":"RottenBodyPart","order":2,"path":"objects/RottenBodyPart/RottenBodyPart.yy",},
+    {"name":"sTileSet","order":1,"path":"sprites/sTileSet/sTileSet.yy",},
+    {"name":"sRottenBodyParts","order":2,"path":"sprites/sRottenBodyParts/sRottenBodyParts.yy",},
+    {"name":"sRottenMove","order":1,"path":"sprites/sRottenMove/sRottenMove.yy",},
+    {"name":"par_proj","order":1,"path":"objects/par_proj/par_proj.yy",},
+    {"name":"item_catalog","order":2,"path":"scripts/item_catalog/item_catalog.yy",},
+    {"name":"sPixelStar3x3","order":1,"path":"sprites/sPixelStar3x3/sPixelStar3x3.yy",},
+    {"name":"Rotten","order":1,"path":"objects/Rotten/Rotten.yy",},
+    {"name":"get_collision","order":4,"path":"scripts/get_collision/get_collision.yy",},
+  ],
+}
